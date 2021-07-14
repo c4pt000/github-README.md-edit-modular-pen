@@ -10,7 +10,8 @@ add modular pen, like modular copy to clipboard
 and or other media supported types
 # when pen is activated to edit a readme.md file type or a file that supports ![s1] image
 # there should be a mouse hover of a IMG ICON to add an image as your scroll down the README.md editing it
-# when clicked an image file can be uploaded to the repo main directory in the background or a designated "images" folder so that exact spot in the readme can have # the file posted as a type of [s1] block 
+# when clicked an image file can be uploaded to the repo main directory in the background or a designated "images" folder so that exact spot in the 
+# readme can have the file posted as a type of [s1] block 
 
 # the uploader will also prompt for a size indicator (800x600) etc and or http url link type options
  
